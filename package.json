@@ -1,0 +1,33 @@
+{
+  "name": "js-mui-inputs",
+  "version": "1.0.0",
+  "description": "MUI customized inputs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosilvacwb/js-mui-inputs.git"
+  },
+  "keywords": [
+    "mui",
+    "input",
+    "react",
+    "typescript",
+    "mask",
+    "cpf",
+    "cnpj",
+    "cep",
+    "phone",
+    "password",
+    "text",
+    "areatext"
+  ],
+  "author": "Julio Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliosilvacwb/js-mui-inputs/issues"
+  },
+  "homepage": "https://github.com/juliosilvacwb/js-mui-inputs#readme"
+}
