@@ -13,11 +13,12 @@
     "emitDeclarationOnly": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
+    "types": ["jest", "node"]
   },
   "exclude": [
     "dist",
     "node_modules",
-    "src/**/*.test.tsx",
+    // "src/**/*.test.tsx",
     "src/**/*.stories.tsx",
   ],
 }
